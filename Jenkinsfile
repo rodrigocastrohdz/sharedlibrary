@@ -1,4 +1,4 @@
-@Library('my-shared-library') _
+@Library('sharedlibrary@main') _
 envVars = envVars()
 
 pipeline {
